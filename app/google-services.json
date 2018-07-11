@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1019504796035",
+    "firebase_url": "https://mobifonefeedback.firebaseio.com",
+    "project_id": "mobifonefeedback",
+    "storage_bucket": "mobifonefeedback.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019504796035:android:24b788a6aa81c9e6",
+        "android_client_info": {
+          "package_name": "com.example.khangnt.mobifonefeedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019504796035-4c1ri2lgecotablpbhk4qs11sj8j8sbj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1019504796035-4c1ri2lgecotablpbhk4qs11sj8j8sbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsrAJNpkYBepbJeI5gGlXgzSlD4Lp8rm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MobifoneFeedBack</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_txt_input_email">Input your email here</string>
+    <string name="hint_txt_input_pwd">Input your password here</string>
+    <string name="hint_txt_re_input_pwd">Re-input your password here</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="logout">LOGOUT</string>
+    <string name="not_member">Not a member? Sign up now</string>
+    <string name="already_registered">Already registered! Login me</string>
+    <string name="copy_right">Copy right by Mobifone</string>
+    <string name="new_FB">NEW FEEDBACK</string>
+    <string name="subject">Subject</string>
+    <string name="send">SEND</string>
+    <string name="content">Input your feedback here</string>
+    <string name="content1">Content:</string>
+    <string name="reply">Reply:</string>
+    <string name="feed_back">FEEDBACK</string>
+    <string name="detail">DETAIL FEEDBACK</string>
+    <string name="login_success">User successfully registered. Try login now!</string>
+    <string name="Registering">Registering...</string>
+    <string name="Logging_in">Logging in...</string>
+    <string name="empty">No data here</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="sending">Sending...</string>
+    <string name="title_activity_reply">ReplyActivity</string>
+    <string name="hint_reply">Input your reply here</string>
+    <string name="title_activity_show_chart">ShowChartActivity</string>
+</resources>

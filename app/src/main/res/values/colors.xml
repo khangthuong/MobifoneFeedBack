@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0060af</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ed1c24</color>\
+
+    <color name="colorMobi1">#B30060af</color>
+    <color name="colorMobi2">#B3ed1c24</color>
+    <color name="colorMobi3">#B3F3B91F</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlueGray">#E0E0E0</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="bg_register">#E0E0E0</color>
+    <color name="white_edt">#f5f5f5</color>
+</resources>
